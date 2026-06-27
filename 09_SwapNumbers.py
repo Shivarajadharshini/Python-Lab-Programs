@@ -1,0 +1,26 @@
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+print("Before swapping:")
+print("First number =", num1)
+print("Second number =", num2)
+
+temp = num1
+num1 = num2
+num2 = temp
+
+print("After swapping:")
+print("First number =", num1)
+print("Second number =", num2)
+
+# Sample Input:
+# 10
+# 20
+
+# Output:
+# Before swapping:
+# First number = 10
+# Second number = 20
+# After swapping:
+# First number = 20
+# Second number = 10
