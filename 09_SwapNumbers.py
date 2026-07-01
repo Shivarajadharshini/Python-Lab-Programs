@@ -20,7 +20,7 @@ print("Second number =", num2)
 # Output:
 # Before swapping:
 # First number = 10
-# Second number = 20
+# Second number = 30
 # After swapping:
-# First number = 20
+# First number = 30
 # Second number = 10
